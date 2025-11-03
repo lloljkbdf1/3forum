@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(170, 170, 255);
+}
+#forum{
+    background-color: rgb(0, 0, 208);
+    padding: 10px;
+    padding-right: 1%;
+    padding-top: 10%;
+}
+#lol{
+    background-color: rgb(40, 40, 160);
+    padding: 5px;
+    padding-right: 1%;
+    padding-top: 5%;
+    color: aliceblue;
+    width: 35em;
+    height: 26em;
+    border:solid;
+    border-color:rgb(28, 28, 109);
+    border-width: 0.48rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    
+}
+#wow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

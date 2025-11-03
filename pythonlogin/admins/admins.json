@@ -1,0 +1,6 @@
+{
+    "admin": {
+        "hash": "$argon2id$v=19$m=65536,t=3,p=4$EwTY9dDONdgIgDGk0KcYOA$qjMYKohx1zdnLzDBydVoEM/oKWb2hftzlJTC0FTQP74",
+        "id": 1
+    }
+}
